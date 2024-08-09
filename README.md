@@ -1,4 +1,4 @@
-```markdown
+
 # PNG to PPTX Converter
 
 `png_to_pptx` is a Python package designed to convert PNG images into a PowerPoint (PPTX) presentation with a 16:9 aspect ratio. This tool is useful for quickly creating presentations from a set of PNG images.
