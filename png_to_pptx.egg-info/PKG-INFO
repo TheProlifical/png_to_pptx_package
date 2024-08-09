@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: png_to_pptx
 Version: 0.1
-Summary: A tool to convert PNG images to a PPTX presentation with a 16:9 aspect ratio. _
+Summary: A tool to convert PNG images to a PPTX presentation with a 16:9 aspect ratio.
 Home-page: https://github.com/TheProlifical/ppt-to-png_package
 Author: Ahson
 Author-email: itsahson1978@gmail.com
@@ -13,4 +13,4 @@ Description-Content-Type: text/markdown
 Requires-Dist: python-pptx
 Requires-Dist: Pillow
 
-# this is a description
+# use def pngs_to_pptx_16x9(png_folder, pptx_file)
