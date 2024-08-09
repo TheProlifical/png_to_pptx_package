@@ -18,5 +18,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    long_description="# this is a description",
+    long_description_content_type="text/markdown",  # Change to "text/x-rst" if using reStructuredText
 )
 
