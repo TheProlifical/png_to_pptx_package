@@ -58,5 +58,5 @@ This will create a PowerPoint presentation where each PNG image is placed on a s
 
 - [python-pptx](https://python-pptx.readthedocs.io/) for handling PowerPoint file operations.
 - [Pillow](https://pillow.readthedocs.io/) for image processing.
-```
+
 
