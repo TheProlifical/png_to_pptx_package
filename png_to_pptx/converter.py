@@ -12,7 +12,7 @@ def pngs_to_pptx_16x9(png_folder, pptx_file):
     slide_width = prs.slide_width
     slide_height = prs.slide_height
 
-    for filename in os.listdir(png_folder):
+    for filename in sorted(os.listdir(png_folder)):
         if filename.endswith(".png"):
             img_path = os.path.join(png_folder, filename)
             slide = prs.slides.add_slide(prs.slide_layouts[6])  # Blank layout
